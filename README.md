@@ -15,8 +15,6 @@
 - [Best Practices](#bestPractices)
 - [Reference Apps](#referenceApps)
 - [Useful Blogs/Websites](#usefulBlogs/Websites)
-- [Contributing](#contributing)
-- [Support Me](#support-me)
 
 # Introduction
 
